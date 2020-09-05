@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM s:latest
 
 LABEL MAINTAINER balz.sanjay@gmail.com
 
